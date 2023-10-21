@@ -1,5 +1,5 @@
 # 💫 About Me:
-En proceso de formación como desarrolladora full stack, apasionada por la tecnología y sus infinitas posibilidades. Adicionalmente, poseo experiencia de 4 años como Contadora Auditora. Al principio, me resultó difícil adaptarme, ya que estaba acostumbrada a seguir un camino predefinido en mi aprendizaje y en la forma en que realizaba las tareas. Pero con el tiempo, me di cuenta de que la tecnología y la innovación ofrecen infinitas posibilidades y que no hay una única forma de hacer las cosas, por lo tanto valoro el aprendizaje constante y la adaptabilidad.
+En proceso de formación como desarrolladora full-stack, apasionada por la tecnología y sus infinitas posibilidades. Adicionalmente, poseo experiencia de 4 años como Contadora Auditora. Al principio, me resultó difícil adaptarme, ya que estaba acostumbrada a seguir un camino predefinido en mi aprendizaje y en la forma en que realizaba las tareas. Pero con el tiempo, me di cuenta de que la tecnología y la innovación ofrecen infinitas posibilidades y que no hay una única forma de hacer las cosas, por lo tanto valoro el aprendizaje constante y la adaptabilidad.
 
 
 ## 🌐 Socials:
